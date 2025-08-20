@@ -52,7 +52,7 @@ An intelligent, full-stack **AI mock interview platform** built with modern tech
 
 3. **Answer Questions**
    - View one question at a time and record text/audio responses  
-   ![Answer]("C:\Users\Bhushan\OneDrive\Pictures\Screenshots\Screenshot 2025-08-20 160025.png")
+   ![Answer](C:\Users\Bhushan\OneDrive\Pictures\Screenshots\Screenshot 2025-08-20 160025.png)
 
 4. **AI Feedback**
    - After answering, get rated and reviewed by Gemini AI  
