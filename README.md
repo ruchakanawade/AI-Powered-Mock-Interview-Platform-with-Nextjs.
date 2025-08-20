@@ -77,3 +77,6 @@ An intelligent, full-stack **AI mock interview platform** built with modern tech
 ```bash
 git clone https://github.com/PurvaLenekar/ai-mock-interview-app.git
 cd ai-mock-interview-app
+
+Author
+Rucha Kanawade
