@@ -75,7 +75,7 @@ An intelligent, full-stack **AI mock interview platform** built with modern tech
 
 ### 1️⃣ Clone the Repository
 ```bash
-git clone https://github.com/PurvaLenekar/ai-mock-interview-app.git
+https://github.com/ruchakanawade/AI-Powered-Mock-Interview-Platform-with-Nextjs..git
 cd ai-mock-interview-app
 
 Author
